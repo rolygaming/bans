@@ -15,10 +15,10 @@
  
 if(!defined('IN_SB')){echo 'You should not be here. Only follow links!';die();}
 
-define('DB_HOST', 'localhost');   			// The host/ip to your SQL server
-define('DB_USER', 'root');					// The username to connect with
-define('DB_PASS', '');						// The password
-define('DB_NAME', 'sourcebans');  			// Database name	
+define('DB_HOST', '45.235.98.65');   			// The host/ip to your SQL server
+define('DB_USER', 'alejandrol_5264');					// The username to connect with
+define('DB_PASS', 'JA38!k3cbeT5');						// The password
+define('DB_NAME', 'alejandrol_sourceban');  			// Database name	
 define('DB_PREFIX', 'sb');					// The table prefix for SourceBans
 define('DB_PORT','3306');					// The SQL port (Default: 3306)
 
